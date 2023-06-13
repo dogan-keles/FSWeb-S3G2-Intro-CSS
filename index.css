@@ -1,0 +1,104 @@
+/* {
+  border: 1px solid limegreen;
+  border-collapse: border-box;
+  background-color: rgba(120, 255, 170, 0.2);
+}
+
+font-family: "Chelsea Market", cursive;
+font-family: "Roboto Mono", monospace;
+ */
+
+body {
+  margin: 25px;
+}
+.btn {
+  display: inline-block;
+  background-color: #5ed3eb;
+  border-radius: 5px;
+  padding: 15px 25px;
+}
+.bg_orange {
+  background-color: #ff764e;
+}
+.bg_yellow {
+  background-color: #ffcd69;
+}
+nav {
+  margin: 0 50px 0 50px;
+  text-align: center;
+  padding: 50px 0;
+  text color: bisque;
+}
+.sola_kaydir {
+  float: left;
+}
+.saga_kaydir {
+  float: right;
+}
+.max-container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+h1 {
+  font-family: "Chelsea Market";
+  text-align: center;
+}
+
+.intro img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: left top;
+}
+
+.intro-text {
+  padding-left: 200px;
+  max-width: 550px;
+  text-align: center;
+}
+.btn:hover {
+  background-color: rgb(240, 164, 70);
+  color: rgb(204, 237, 16);
+}
+.intro {
+  min-height: 220px;
+  margin-bottom: 15px;
+  margin-top: 50px;
+}
+.ortala {
+  margin: 0 auto;
+}
+ p {
+    font-family: "Roboto Mono", monospace;
+  } 
+  
+footer img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: center top;
+}
+footer nav {
+  margin: 20px 0;
+  padding: 20px;
+}
+footer {
+  background-color: #f9e7dc;
+}
+.main-text {
+  background-color: #ddb9a3;
+  text-align: center;
+  color: white;
+}
+.kart {
+  width: 300px;
+  text-align: center;
+  margin: 10px auto;
+}
+.kart img {
+  width: 33%;
+}
+nav a {
+  text-decoration: none;
+}
